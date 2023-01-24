@@ -2,4 +2,4 @@
 1. Tech:
 JavaScript, BEM, CSS, HTML, SASS;
 
-    - [DEMO LINK](https://vasyliev-anton.github.io/MyBike-landing/]
+    - [DEMO LINK]((https://vasyliev-anton.github.io/MyBike-landing/)]
